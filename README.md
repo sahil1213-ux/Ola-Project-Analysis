@@ -3,15 +3,28 @@
 ### Report link: https://app.powerbi.com/links/dB_0MWU1ng?ctid=00436dcb-a0dc-4a68-a066-91c516efd0d4&pbi_source=linkShare
 
 ## Problem Statement
-This dashboard helps ride-hailing companies better understand their customers and operational trends. It enables businesses to analyze ride patterns, assess cancellation reasons, and optimize pricing strategies. By identifying key factors affecting ride completion and cancellations, companies can improve their service efficiency and enhance user satisfaction.
+This dashboard helps ride-hailing companies better understand their customers and operational trends. It enables businesses to analyze ride patterns, assess cancellation reasons, and optimize pricing strategies. Companies can improve service efficiency and enhance user satisfaction by identifying key factors affecting ride completion and cancellations.
 
-Additionally, the dashboard provides insights into customer payment preferences, vehicle demand, and ride distances, helping businesses tailor their offerings. Since a notable percentage of rides are either canceled or incomplete, streamlining the booking and driver assignment process can lead to better reliability.
+Additionally, the dashboard provides insights into customer payment preferences, vehicle demand, and ride distances, helping businesses tailor their offerings. Since a notable percentage of rides are either canceled or incomplete, streamlining the booking and driver assignment process can improve reliability.
 
 Furthermore, analyzing the relationship between ride distance, booking value, and customer ratings allows companies to refine their service models. By leveraging these insights, ride-hailing businesses can enhance their services, reduce cancellations, and improve customer-driver interactions.
 
 ## March Month Analysis (DASHBOARD)
+![Image](https://github.com/user-attachments/assets/98b8fede-85b9-4166-9a28-dcea7939a5ff)
 
-# **Insights from the Dashboard**  
+## Vehicle Type (REPORT PAGE)
+![Image](https://github.com/user-attachments/assets/fa720962-a911-465c-b1e6-091e2b16cf86)
+
+## Revenue (REPORT PAGE)
+![Image](https://github.com/user-attachments/assets/4fe6b007-3844-4b97-a79e-f1d2b02859bc)
+
+## Cancellation (REPORT PAGE)
+![Image](https://github.com/user-attachments/assets/17dd1fa6-bf2e-40f4-b419-497270f3b35f)
+
+## Ratings (REPORT PAGE)
+![Image](https://github.com/user-attachments/assets/af0990cf-0dd9-4530-b83b-7ee29d65a9fa)
+
+# **Insights from the Analysis**  
 
 
 ## 1. Ride Status Breakdown
